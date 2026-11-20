@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: Please cite the study when using these research materials.
+title: Missing Women on Indian Streets
+authors:
+- given-names: Varun
+  family-names: Karekurve-Ramachandra
+- given-names: Gaurav
+  family-names: Sood
+repository-code: https://github.com/geosensing/mw_bikecam_india
+preferred-citation:
+  type: generic
+  title: Missing Women on Indian Streets
+  authors:
+  - given-names: Varun
+    family-names: Karekurve-Ramachandra
+  - given-names: Gaurav
+    family-names: Sood
+  url: https://github.com/geosensing/mw_bikecam_india/blob/HEAD/ms/ms.tex
